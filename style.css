@@ -341,11 +341,11 @@ select {
 }
 
 .books__loading--spinner {
-    display: none;
+    display: none !important;
 }
 
 .books__loading .books__loading--spinner {
-    display: block;
+    display: block !important;
 }
 
 .fa-spinner {
